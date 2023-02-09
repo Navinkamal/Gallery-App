@@ -1,0 +1,19 @@
+/* Write your code here. */
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  justify-content: center;
+  margin: 10px;
+}
+.full-image {
+  border-radius: 20px;
+  width: 80%;
+  height: 70%;
+}
+.thumbnail-container {
+  display: flex;
+}
